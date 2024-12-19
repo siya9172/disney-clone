@@ -3,7 +3,7 @@ import React from 'react'
 function Footer() {
   return (
     <div className='text-white text-center'>
-        <h1>By Vivek Kalpavruksha</h1>
+        <h1>By Siddhi Patil</h1>
     </div>
   )
 }
